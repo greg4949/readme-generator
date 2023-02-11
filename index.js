@@ -57,13 +57,15 @@ inquirer
         
    
         let readme = 
-        `# ${title}
+`# ${title}
 
-        ## Description
+## Description
         
-        ${description}
+${description}
         
-        ## Installation Instructions`
+## Installation Instructions`
+
+
         fs.writeFile(filename, readme, (err) =>
         err ? console.log(err) : console.log('Success!')
         )
