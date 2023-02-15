@@ -1,43 +1,28 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Weekly Challenge 09 Professional readme file generator.
 
-# title 
+![](./readmegenerator.jpg)
+
+
+## Link to Video Demo of Application
+
+https://drive.google.com/file/d/1fChG7VEgWS1UqT8aPx4rfM1cousxxe6A/view
 
 ## Description
-==============
-        
-desc
 
-## Table of Contents
+The readme file generator is a command line application that allows a user to quickly create a professional quality readme file based on inputs from user into prompts from the application.
 
-1.  [Installation](#installation)
-2.  [Usage](#usage)
-3.  [Contribution Guidelines](#contribution-guidelines)
-4.  [Tests](#tests)
-5.  [Licensing](#licensing)
-6.  [Questions](#questions)
-        
 ## Installation
 
-instruc
+N/A
 
 ## Usage
 
-info
+This application is perfect for a user who desires to quickly generate a high-quality professional readme file including a license badge and table of contents with links to the various sections of the readme.e.
 
-## Contribution Guidelines
+## Credits
 
-undefined
+Badges created using shields.io.
 
-## Tests
+## License
 
-undefined
-
-## Licensing
-
-Licensed under Apache License version 2.0.  Click here for additional information http://www.apache.org/licenses/LICENSE-2.0.
-
-## Questions
-
-Github username: github
-
-To reach me with additional questions, please send email to email 
+Please refer to the LICENSE in the repo.

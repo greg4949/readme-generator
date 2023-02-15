@@ -1,4 +1,4 @@
-// TODO: Include packages needed for this application
+
 const inquirer = require('inquirer');
 const fs = require('fs');
 
@@ -57,9 +57,9 @@ inquirer
         let description = data.description
         let installation = data.installation
         let usage = data.usage
-        let contribution=data.contribution
-        let tests = data.test
-        let github = data.github
+        let contribution = data.contributions
+        let tests = data.tests
+        let github = 'https://github.com/'+data.github
         let email =data.email
         let license = data.license
         
@@ -139,18 +139,7 @@ To reach me with additional questions, please send email to ${email} `
         err ? console.log(err) : console.log('Success!')
         )
     
-       
+  
     })  
 
 
-// // TODO: Create an array of questions for user input
-// const questions = [];
-
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();
